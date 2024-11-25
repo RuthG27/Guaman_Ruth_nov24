@@ -6,5 +6,6 @@
 top_secret/
 
 
-#ignorar todos los archivos con extensiones photoshop
+#ignorar todos los archivos con extensiones
 *.xcf
+*.psd
