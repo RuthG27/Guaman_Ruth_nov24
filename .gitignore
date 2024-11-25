@@ -1,0 +1,10 @@
+#ignorar archivo 
+.DS_Store
+
+
+#ignorar carpeta o directorio
+top_secret/
+
+
+#ignorar todos los archivos con extensiones photoshop
+*.xcf
